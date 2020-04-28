@@ -21,6 +21,7 @@ This project is hosted on [GitHub](https://github.com/) at
 https://github.com/elizabethdaly/comp-thinking-project.git
 
 The analysis takes the form of a single Jupyter notebook of filename **EDalySortingAlg.ipynb**
+The project report is in **FinalProject.pdf**
 
 ## How to clone this repository
 A repository on GitHub exists as a remote repository. You can clone this repository to create a local copy on your computer by following these instructions:
@@ -35,7 +36,7 @@ git clone https://github.com/elizabethdaly/comp-thinking-project
 6. Press enter to clone the repository to your machine.
 
 ## Static version of the notebook
-Alternatively, one can view a static version of the notebook using [Jupyter Nbviewer](https://nbviewer.jupyter.org/). Enter the GitHub url to view the file.
+Alternatively, one can view a static version of the notebook using [Jupyter Nbviewer](https://nbviewer.jupyter.org/). Enter the GitHub url to view the file. Actually, I realized that I cannot do this with a private repository. I'll leave the instruction here anyway for when I make the repository public after the submission date.
 
 ```
 https://github.com/elizabethdaly/comp-thinking-project/blob/master/EDalySortingAlg.ipynb
