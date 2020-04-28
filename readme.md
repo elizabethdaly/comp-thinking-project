@@ -33,3 +33,10 @@ A repository on GitHub exists as a remote repository. You can clone this reposit
 git clone https://github.com/elizabethdaly/comp-thinking-project
 ```
 6. Press enter to clone the repository to your machine.
+
+## Static version of the notebook
+Alternatively, one can view a static version of the notebook using [Jupyter Nbviewer](https://nbviewer.jupyter.org/). Enter the GitHub url to view the file.
+
+```
+https://github.com/elizabethdaly/comp-thinking-project/blob/master/EDalySortingAlg.ipynb
+```
